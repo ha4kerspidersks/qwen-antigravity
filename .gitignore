@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python caches & temporary backups
+__pycache__/
+*.py[cod]
+*$py.class
+*.backup*
+
+# Environment & credentials
+.env
+.env.*
+
+# macOS
+.DS_Store
